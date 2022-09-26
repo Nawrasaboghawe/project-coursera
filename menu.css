@@ -1,0 +1,48 @@
+* {
+padding: 0%;
+margin: 0%;
+background-color: #deded0;
+}
+h1 {
+    margin: 30px 20px 40px 0px ;
+    text-align: center;
+}
+.one,
+.two,
+.three {
+    display: inline-block;
+    width: 350px;
+    padding: 0px 14px 10px 0px;
+    border: 3px solid black;
+    margin: 30px ;
+    text-align: right;
+    background-color:rgb(112, 108, 108) ;
+}
+.chic,
+.bee,
+.sush {
+    width: 140px;
+    text-align: center;
+    border-color: black;
+    border-width: 3px;
+    border-style: hidden solid solid hidden;
+   
+}
+
+.chic-one,
+.be-one,
+.sush-one {
+    background-color: rgb(112, 108, 108);
+    text-align: left;
+    padding: 10px 0px 0px 8px ;
+}
+.chic {
+    background-color: rgb(250, 161, 176);
+}
+.bee {
+    background-color: red;
+    color: white;
+}
+.sush {
+    background-color: rgb(218, 218, 92);
+}
